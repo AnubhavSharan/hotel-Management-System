@@ -1,6 +1,6 @@
 // package model1;
 
-
+                                             // this tester class is specifically for model1 tesing 
 // import java.util.*;
 
 // import service.ReservationService;
